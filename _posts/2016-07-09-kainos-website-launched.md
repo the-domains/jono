@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Kainos Website Launched
-datePublished: '2016-07-09T17:56:10.548Z'
-dateModified: '2016-07-09T17:56:07.782Z'
+datePublished: '2016-07-09T17:56:35.956Z'
+dateModified: '2016-07-09T17:56:18.797Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-09-kainos-website-launched.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-09-kainos-website-launched.md
 url: kainos-website-launched/index.html
 _type: Article
 
