@@ -1,0 +1,28 @@
+name: jono
+favicon: null
+layout_spectrum: 0.13413830497302115
+typography_spectrum: 0.511127257021144
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5964368376880884
+  lightness: 0.873527763877064
+  saturation: 0.7278412433806807
+  rhythmicContrast: 0.9968146446626633
+purpose: []
